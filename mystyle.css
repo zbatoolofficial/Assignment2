@@ -488,7 +488,7 @@ font-family: sans-serif;
 }
 .log{
     width: 280px;
-    height: 75vh;
+    height: 390px;
     background: #000;
     color:#fff;
     top:50%;
@@ -548,7 +548,6 @@ margin-bottom:5px;
 }
 .log a{
     color: coral;
-
 }
 .bds{
     margin: 0;
