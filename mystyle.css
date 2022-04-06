@@ -572,6 +572,7 @@ margin-bottom:5px;
 .sign h1,p{
     color: rgb(248, 70, 6);
     margin-bottom: 30px;
+
 }
 .sign h1:hover{
     width:max-content;
@@ -582,7 +583,7 @@ margin-bottom:5px;
 .sign input{
     border-radius:30px;
     padding: 10px;
-    margin: 10px 0;
+    margin: 0px 0;
     width:70%;
     border: 1px solid rgb(255, 3, 3);
     outline:none;
